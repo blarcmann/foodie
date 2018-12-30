@@ -1,0 +1,24 @@
+.hide {
+    display: none;
+}
+
+.recipe-details-container {
+    .recipe-details {
+        .recipe-image {
+            .recipe-image-preview {
+                img {
+                    width: 100%;
+                }
+            }
+            .recipe-image-thumbnails {
+                img {
+                    width: 75px;
+                    height: 65px;
+                }
+            }
+        }
+        .recipe-info {
+
+        }
+    }
+}
